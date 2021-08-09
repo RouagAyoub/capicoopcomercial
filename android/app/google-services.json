@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239347037964",
+    "project_id": "capicoopcomercial",
+    "storage_bucket": "capicoopcomercial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239347037964:android:05ce248c89ae17db613b29",
+        "android_client_info": {
+          "package_name": "com.example.capicoopcomercial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239347037964-1iombnatv642cofv2qdj6g5bpdvi9ujk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByQ1uq0apx9MvgDGzIN8hOOUz3FZPTicw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239347037964-1iombnatv642cofv2qdj6g5bpdvi9ujk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
